@@ -3,7 +3,7 @@
 
 # Python
 __pycache__/
-*.py[cod]
+# *.py[cod]  # 注释掉这行以允许反编译的.pyc文件
 *$py.class
 *.so
 .Python
