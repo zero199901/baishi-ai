@@ -1,0 +1,17 @@
+[
+    {
+        "name": "紧凑-口播",
+        "description": "",
+        "param": "{\"no_silent_state\": 1, \"keep_silent_duration\": 0.2, \"min_silence_duration\": 1, \"silence_thresh\": -20}"
+    },
+    {
+        "name": "常用-剪剧情",
+        "description": "",
+        "param": "{\"no_silent_state\": 1, \"keep_silent_duration\": 1, \"min_silence_duration\": 2, \"silence_thresh\": -20}"
+    },
+    {
+        "name": "常用-剪电影",
+        "description": "",
+        "param": "{\"no_silent_state\": 1, \"keep_silent_duration\": 1, \"min_silence_duration\": 5, \"silence_thresh\": -30}"
+    }
+]

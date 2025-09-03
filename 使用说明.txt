@@ -1,0 +1,18 @@
+
+
+【必看】软件设置教程：
+https://q1122etgo6i.feishu.cn/wiki/FRlkwKoGii0rXHkMYXRcydr6nRe
+
+其他常见问题
+
+1、安装ffmpeg
+参见：https://developer.aliyun.com/article/1260303
+
+
+2、无法打开来自身份不明开发者的 Mac App调整方式
+
+https://support.apple.com/zh-cn/guide/mac-help/mh40616/mac
+
+https://zhuanlan.zhihu.com/p/611748301?utm_id=0
+
+https://www.haozhuangji.com/xtjc/155729612.html
